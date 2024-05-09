@@ -1,0 +1,18 @@
+node_modules/
+/dist/
+.cache/
+.env
+.DS_Store
+*.log
+
+# Vite
+.vite/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
